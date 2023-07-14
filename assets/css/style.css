@@ -329,7 +329,9 @@ picture{
 }
 
 .hero-img {
-  width: 70%;
+  width: 50%;
+  border-radius:300px;
+  
 }
 
 .delivered-meals {
